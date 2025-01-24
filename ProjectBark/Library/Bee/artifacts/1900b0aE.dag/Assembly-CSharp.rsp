@@ -364,6 +364,9 @@
 -analyzer:"C:/Program Files/Unity 2022.2.0f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity 2022.2.0f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/Bark.cs"
+"Assets/Scripts/Goal.cs"
+"Assets/Scripts/Package.cs"
+"Assets/Scripts/Projectile.cs"
 -langversion:9.0
 
 /deterministic

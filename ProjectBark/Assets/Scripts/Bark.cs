@@ -27,7 +27,7 @@ public class Bark : MonoBehaviour
     {
         m_MovementDirection.x = m_HorizontalMovement;
         m_MovementDirection.z = m_VerticalMovement;
-        m_Rigidbody.AddForce(m_MovementDirection * 40.0f);
+        m_Rigidbody.AddForce(m_MovementDirection * 150.0f);
     }
 
     // Update is called once per frame
